@@ -1,0 +1,34 @@
+name of the game- home
+pc- astronaut
+npc- aliens
+obstacles- astroids
+mechanics- avoiding astroids/killing aliens 
+game space - space
+goal- to reach home planet
+how to avoid obstacles- moving left right
+how to destroy aliens- r to shoot lasers
+explosion when alien is destroyed
+feedback- 5 hearts and if you lose all game over/killed aliens
+astronaut went to moon and now he is coming back home on the
+way there are aliens and astroids the astronaut hast to avoid the
+astroids ad kill the aliens to come back home.
+------------------------------------------------------------------------------------
+
+steps to be done-
+1.download images (astronaut astroid alien laser background )
+2.remove unwanted background(bg.remove)
+3.download sound
+4.make a folder for visual studio with physics engine libraries
+5.upload all images in vs in image folder
+6.upload all sounds in vs in sound folder
+------------------------------------------------------------------------------------------
+
+code:
+7.create all functions 
+8.create canvas
+9.add background 
+10.scroll ground infinite
+11.fuctions for aliens and astroids
+12.create astronaut 
+
+
